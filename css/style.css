@@ -1,5 +1,5 @@
 body {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: Menlo, Helvetica, sans-serif;
 	font-size: 12px;
 	color: #000000;
 	background-color: white;
@@ -28,9 +28,6 @@ a:hover {
 	float: left;
 }
 .header {
-	background-image: url(../images/header.jpg);
-	background-repeat: no-repeat;
-	background-position: left top;
 	width: 918px;
 	height: 232px;
 	float: left;
@@ -40,25 +37,22 @@ a:hover {
 	font-size: 48px;
 	line-height: 48px;
 	color: #000000;
-	margin-top: 87px;
-	margin-left: 98px;
+	/*margin: 150px 500px;*/
+	/*margin-left: 98px;*/
+	text-align: center;
 }
 .topmenu {
-	background-image: url(../images/menu-bg.jpg);
-	background-repeat: no-repeat;
-	background-position: left top;
+	/*text-align: center;*/
+	/*display: inline-block;*/
 	width: 918px;
 	height: 52px;
-	float: left;
+	float: top;
 }
 .topmenu ul {
 	height: 47px;
 	list-style-type: none;
 }
 .topmenu ul li {
-	background-image: url(../images/devider.jpg);
-	background-repeat: no-repeat;
-	background-position: left top;
 	height: 47px;
 	float: left;
 	padding-left: 10px;
