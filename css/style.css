@@ -2,8 +2,7 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 12px;
 	color: #000000;
-	background-color: #020202;
-	background-image: url(../images/body-rept.jpg);
+	background-color: white;
 	background-repeat: repeat-y;
 	background-position: center top;
 	margin: 35px 0px 0px 0px;
@@ -37,7 +36,7 @@ a:hover {
 	float: left;
 }
 .header h1 {
-	font-family: "Times New Roman", Times, serif;
+	font-family: "Menlo", Times, serif;
 	font-size: 48px;
 	line-height: 48px;
 	color: #000000;
