@@ -1,3 +1,5 @@
+*{border: 1px solid #000000}
+
 body {
 	font-family: Menlo, Helvetica, sans-serif;
 	font-size: 12px;
@@ -42,11 +44,11 @@ a:hover {
 	text-align: center;
 }
 .topmenu {
-	/*text-align: center;*/
+	text-align: center;
 	/*display: inline-block;*/
 	width: 918px;
 	height: 52px;
-	float: top;
+	/*float: top;*/
 }
 .topmenu ul {
 	height: 47px;
@@ -175,4 +177,10 @@ ul.list1 li {
 .footer-link:hover {
 	color:#ffffff; 
 	text-decoration:none;
+}
+
+.banner {
+	width:auto;
+	max-width:100%;
+	height:auto;
 }
