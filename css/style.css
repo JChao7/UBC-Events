@@ -1,3 +1,15 @@
+title {
+	margin-bottom: 10px;
+}
+
+img {
+	width: 700px;
+	height: 200px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 body {
 	font-family: Menlo, Helvetica, sans-serif;
 	font-size: 12px;
@@ -5,7 +17,7 @@ body {
 	background-color: white;
 	background-repeat: repeat-y;
 	background-position: center top;
-	margin: 35px 0px 0px 0px;
+	margin: 50px 0px 0px 0px;
 }
 h1, h2, h3, h4, h5, h6, p, ul, ol, li, form, input, textarea {
 	padding: 0px;
